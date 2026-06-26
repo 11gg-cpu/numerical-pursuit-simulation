@@ -59,3 +59,7 @@ numerical-pursuit-simulation/
 ## Resume Bullet
 
 - Built a MATLAB ODE simulation of a constrained predator-prey pursuit problem, comparing constant-speed and fatigue-based models to interpret trajectory outcomes under environmental constraints.
+
+## Contact
+
+For questions or collaboration: [steventang30999@gmail.com](mailto:steventang30999@gmail.com)
